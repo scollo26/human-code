@@ -1,0 +1,9 @@
+vado al tavolo
+
+conto a due a due i posti
+
+confronto il numero di posti con il numero di invitati
+
+se posti < invitati aggiungo un posto e rifaccio il confronto
+se posti > invitati tolgo un posto e rifaccio il confronto
+se posti = invitati fine
